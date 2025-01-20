@@ -200,8 +200,7 @@ const pmApiDevelopers = [
     'RedMan13',
     'tnix100',
     'Ianyourgod',
-    'JoshAtticus',
-    'enderhacker'
+    'Jwklong'
 ].map(fromHardcodedGithub);
 
 const pmTranslators = [
@@ -477,6 +476,11 @@ const pmCostumeSubmittors = [
         text: 'blockgamer904',
         image: `https://penguinmod.com/unknown_user.png`,
         href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: "Anonygoose's Dog (Max)",
+        image: "https://projects.penguinmod.com/api/v1/users/getpfp?username=anonygoosedog",
+        href: "https://penguinmod.com/profile?user=anonygoosedog",
     },
 ];
 const pmSoundSubmittors = [
