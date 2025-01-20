@@ -106,10 +106,10 @@ const Credits = () => (
             </p>
             <h2>Server Host</h2>
             <p>
-                PenguinMod's Project Sharing server is currently hosted by <a href="https://github.com/JoshAtticus">JoshAtticus</a>.
+                PenguinMod's Project Sharing server is currently hosted by <a href="https://github.com/ianyourgod">ianyourgod</a>.
                 <br></br>
-                <a href="https://github.com/JoshAtticus">
-                    <img src="https://avatars.githubusercontent.com/u/72828296?v=4" style={{ width: "128px" }}></img>
+                <a href="https://github.com/ianyourgod">
+                    <img src="https://avatars.githubusercontent.com/u/104151459?v=4" style={{ width: "128px" }}></img>
                 </a>
             </p>
             <p>
