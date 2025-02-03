@@ -51,8 +51,7 @@ class HomeCommunication extends React.Component {
         }
         if (!data.type) return;
         if (!data.packet) return;
-        console.log(data);
-       
+
         switch (data.type) {
             case 'login': {
                 if (data.packet.loggedIn !== true) return;
