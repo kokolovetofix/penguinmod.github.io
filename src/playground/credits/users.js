@@ -482,6 +482,51 @@ const pmCostumeSubmittors = [
         image: "https://projects.penguinmod.com/api/v1/users/getpfp?username=anonygoosedog",
         href: "https://penguinmod.com/profile?user=anonygoosedog",
     },
+    {
+        text: 'mildannerofc',
+        image: `https://github.com/mildannerofc.png`,
+        href: `https://github.com/mildannerofc/`,
+    },
+    {
+        text: 'bonemaster96',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'phicicle',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'ron027257',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'fur1na__',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: '00ee8a',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'alf2003_14729',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'pedrotheawsomeguy',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'david342013',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
 ];
 const pmSoundSubmittors = [
     // accounts
@@ -533,6 +578,26 @@ const pmSoundSubmittors = [
     },
     {
         text: 'mememaster9000',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'rydia_theawesome',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'jackunavailable',
+        image: `https://penguinmod.com/unknown_user.png`,
+        href: "https://studio.penguinmod.com/credits.html#",
+    },
+    {
+        text: 'hammouda101010',
+        image: `https://github.com/hammouda101010.png`,
+        href: `https://github.com/hammouda101010/`,
+    },
+    {
+        text: 'gdplayer1035',
         image: `https://penguinmod.com/unknown_user.png`,
         href: "https://studio.penguinmod.com/credits.html#",
     },

@@ -494,6 +494,19 @@
         "rotationCenterY": 94
     },
     {
+        "name": "Axe",
+        "tags": [
+            "tool",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Axe.svg"
+    },
+    {
         "name": "Ball-a",
         "tags": [
             "round",
@@ -698,8 +711,7 @@
         "tags": [
             "character",
             "template",
-            "person",
-            "new"
+            "person"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -713,8 +725,7 @@
         "tags": [
             "character",
             "template",
-            "person",
-            "new"
+            "person"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -722,6 +733,38 @@
         "rotationCenterY": 0,
         "fromPenguinModLibrary": true,
         "libraryFilePage": "images/user/Base-b.svg"
+    },
+    {
+        "name": "Base2-a",
+        "tags": [
+            "character",
+            "template",
+            "person",
+            "dance",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Poser-Base1.svg"
+    },
+    {
+        "name": "Base2-b",
+        "tags": [
+            "character",
+            "template",
+            "person",
+            "dance",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Poser-Base-SamplePose.svg"
     },
     {
         "name": "Baseball",
@@ -1088,6 +1131,20 @@
         "rotationCenterY": 94
     },
     {
+        "name": "Bee",
+        "tags": [
+            "animals",
+            "insect",
+            "new"
+        ],
+        "bitmapResolution": 2,
+        "dataFormat": "png",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/bee.png"
+    },
+    {
         "name": "Beetle",
         "tags": [
             "animals",
@@ -1180,20 +1237,6 @@
         "md5ext": "acc208e29f0422c2bcffa3b8873abc63.svg",
         "rotationCenterX": 44,
         "rotationCenterY": 71
-    },
-    {
-        "name": "Bingus",
-        "tags": [
-            "cat",
-            "animals",
-            "realistic"
-        ],
-        "bitmapResolution": 2,
-        "dataFormat": "png",
-        "rotationCenterX": 87,
-        "rotationCenterY": 128,
-        "fromPenguinModLibrary": true,
-        "libraryFilePage": "images/bingus.png"
     },
     {
         "name": "Bowl-a",
@@ -1826,19 +1869,18 @@
             "animals",
             "new"
         ],
-        "bitmapResolution": 2,
-        "dataFormat": "png",
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
         "rotationCenterX": 0,
         "rotationCenterY": 0,
         "fromPenguinModLibrary": true,
-        "libraryFilePage": "images/user/cat.png"
+        "libraryFilePage": "images/user/Cat3.svg"
     },
     {
         "name": "Cat2",
         "tags": [
             "cat",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 2,
         "dataFormat": "png",
@@ -2588,6 +2630,38 @@
         "libraryFilePage": "images/user/choci-b.svg"
     },
     {
+        "name": "Choci2-a",
+        "tags": [
+            "people",
+            "person",
+            "girl",
+            "character",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Choci2-a.svg"
+    },
+    {
+        "name": "Choci2-b",
+        "tags": [
+            "people",
+            "person",
+            "girl",
+            "character",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Choci2-b.svg"
+    },
+    {
         "name": "Chick-a",
         "tags": [
             "animals",
@@ -2903,6 +2977,118 @@
         "libraryFilePage": "images/cursor.svg"
     },
     {
+        "name": "Cursor-b",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor-b.svg"
+    },
+    {
+        "name": "Cursor2-a",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor2-a.svg"
+    },
+    {
+        "name": "Cursor2-b",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor2-b.svg"
+    },
+    {
+        "name": "Cursor2-c",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor2-c.svg"
+    },
+    {
+        "name": "Cursor2-d",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor2-d.svg"
+    },
+    {
+        "name": "Cursor2-e",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor2-e.svg"
+    },
+    {
+        "name": "Cursor2-f",
+        "tags": [
+            "mouse",
+            "computers",
+            "input",
+            "icons",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/cursor/Cursor2-f.svg"
+    },
+    {
         "name": "Curved Arrow",
         "tags": [
             "icons",
@@ -2914,6 +3100,22 @@
         "rotationCenterY": 0,
         "fromPenguinModLibrary": true,
         "libraryFilePage": "images/curved-arrow.svg"
+    },
+    {
+        "name": "Cyanona",
+        "tags": [
+            "people",
+            "person",
+            "girl",
+            "character",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Cyanona.svg"
     },
     {
         "name": "Dan-a",
@@ -3012,6 +3214,22 @@
         "md5ext": "b5f989e21b56af371209369c331b821e.svg",
         "rotationCenterX": 37,
         "rotationCenterY": 138
+    },
+    {
+        "name": "Ddededodediamante",
+        "tags": [
+            "people",
+            "crude",
+            "drawing",
+            "human",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/ddededodediamante.svg"
     },
     {
         "name": "Dee-a",
@@ -4386,8 +4604,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4401,8 +4618,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4416,8 +4632,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4431,8 +4646,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4446,8 +4660,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4461,8 +4674,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4476,8 +4688,7 @@
         "tags": [
             "turkey",
             "bird",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -4735,8 +4946,7 @@
             "utensils",
             "dinner",
             "food",
-            "tool",
-            "new"
+            "tool"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -6421,20 +6631,6 @@
         "libraryFilePage": "images/jeremy.svg"
     },
     {
-        "name": "Jinx",
-        "tags": [
-            "cat",
-            "animals",
-            "realistic"
-        ],
-        "bitmapResolution": 2,
-        "dataFormat": "png",
-        "rotationCenterX": 98,
-        "rotationCenterY": 145,
-        "fromPenguinModLibrary": true,
-        "libraryFilePage": "images/jinx.png"
-    },
-    {
         "name": "Jo Pop Down",
         "tags": [
             "people",
@@ -6890,8 +7086,7 @@
         "name": "Kitty-a",
         "tags": [
             "cat",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -6904,8 +7099,7 @@
         "name": "Kitty-b",
         "tags": [
             "cat",
-            "animals",
-            "new"
+            "animals"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -7000,6 +7194,20 @@
         "rotationCenterY": 0,
         "fromPenguinModLibrary": true,
         "libraryFilePage": "images/user/fantasia1.svg"
+    },
+    {
+        "name": "Laptop3",
+        "tags": [
+            "things",
+            "computers",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Laptop3.svg"
     },
     {
         "name": "Lb Pop Down",
@@ -7373,6 +7581,23 @@
         "md5ext": "963cb82687acaf5de53a22b287192723.svg",
         "rotationCenterX": 50.565256229860694,
         "rotationCenterY": 130.02168173555543
+    },
+    {
+        "name": "Lucas",
+        "tags": [
+            "people",
+            "person",
+            "boy",
+            "character",
+            "human",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Lucas.svg"
     },
     {
         "name": "Magicwand",
@@ -8541,8 +8766,7 @@
             "animals",
             "bird",
             "winter",
-            "antarctica",
-            "new"
+            "antarctica"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -8550,6 +8774,23 @@
         "rotationCenterY": 0,
         "fromPenguinModLibrary": true,
         "libraryFilePage": "images/penguin-styled.svg"
+    },
+    {
+        "name": "Penny",
+        "tags": [
+            "people",
+            "person",
+            "girl",
+            "character",
+            "human",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Penny.svg"
     },
     {
         "name": "Pick",
@@ -8629,8 +8870,7 @@
         "tags": [
             "airspace",
             "aerospace",
-            "transportation",
-            "new"
+            "transportation"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -9632,6 +9872,20 @@
         "libraryFilePage": "images/user/rune/rune-d2.svg"
     },
     {
+        "name": "Sand Castle",
+        "tags": [
+            "sculpture",
+            "castle",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/sandcastle.svg"
+    },
+    {
         "name": "Sailboat",
         "tags": [
             "boat",
@@ -10121,6 +10375,20 @@
         "rotationCenterY": 29
     },
     {
+        "name": "Shovel",
+        "tags": [
+            "gardening",
+            "tool",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Shovel.svg"
+    },
+    {
         "name": "Singer1",
         "tags": [
             "people",
@@ -10418,8 +10686,7 @@
             "utensils",
             "dinner",
             "food",
-            "tool",
-            "new"
+            "tool"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -10434,8 +10701,7 @@
             "utensils",
             "dinner",
             "food",
-            "tool",
-            "new"
+            "tool"
         ],
         "bitmapResolution": 1,
         "dataFormat": "svg",
@@ -12642,6 +12908,20 @@
         "md5ext": "2d94d83dcc9ee3a107e5ea7ef0dddeb0.svg",
         "rotationCenterX": 30,
         "rotationCenterY": 39
+    },
+    {
+        "name": "Glow-Plus",
+        "tags": [
+            "symbols",
+            "letters",
+            "new"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "images/user/Glow-Plus.svg"
     },
     {
         "name": "story-A-1",
