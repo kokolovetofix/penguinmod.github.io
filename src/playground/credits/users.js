@@ -382,6 +382,11 @@ const pmTranslators = [
         image: `https://avatars.githubusercontent.com/u/154646419?v=4`,
         href: "https://github.com/mariocraft987",
     },
+    {
+        text: 'Chip',
+        image: `https://avatars.githubusercontent.com/u/116580105?s=96&v=4`,
+        href: "https://penguinmod.com/profile?user=chip",
+    }
 ];
 
 const pmCostumeSubmittors = [
