@@ -113,6 +113,7 @@ import jgCloneManagerExtensionIcon from './penguinmod/extensions/clonemanager.pn
 import pmInlineBlocksExtensionIcon from './penguinmod/extensions/inlineblocks.png';
 import jgPackagerApplicationsExtensionIcon from './penguinmod/extensions/packagedApplications.png';
 import jgPackagerApplicationsInsetExtensionIcon from './penguinmod/extensions/packagedApplications_inset.png';
+import spJSONExtensionIcon from './penguinmod/extensions/sp_json.svg';
 
 // import jgTweeningExtensionIcon from './penguinmod/extensions/tween.png';
 import jgsilvxrcatInterfacesExtensionIcon from './penguinmod/extensions/interfaces2.png';
@@ -446,6 +447,15 @@ const menuItems = [
         iconURL: jgJSONExtensionIcon,
         tags: ['penguinmod', 'datamgmt'],
         description: 'Blocks for handling JSON objects and Arrays.',
+        featured: true
+    },
+    {
+        name: 'Swift JSON',
+        extensionId: 'https://sharkpools-extensions.vercel.app/extension-code/JSON-Array.js',
+        iconURL: spJSONExtensionIcon,
+        tags: ['penguinmod', 'datamgmt'],
+        extDeveloper: 'SharkPool',
+        description: 'POTENTIALLY DANGEROUS, but faster extension for handling JSON objects and arrays. Recommended if you are heavily using JSON several times in a project.',
         featured: true
     },
     {
